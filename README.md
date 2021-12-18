@@ -33,7 +33,7 @@ These notes from exam dated November 30, 2021.
 - analyze CI load to determine build agent configuration and capacity
 ### Design a process for standardizing builds across organization
 - manage self-hosted build agents (VM templates, containerization, etc.)
-- create reuseable build subsystems (YAML templates, Task Groups, Variable Groups, etc.)
+- create reuseable build subsystems ([YAML templates](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema), [Task Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/task-groups?view=azure-devops), [Variable Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/variable-groups?view=azure-devops&tabs=yaml))
 __________________________________________________________________________________________
 
 ## Develop a security and compliance plan (10-15%)
