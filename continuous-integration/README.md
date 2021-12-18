@@ -1,6 +1,6 @@
-# Continuous Integration
+# Continuous Integration (CI)
 
-Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It's a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run.
+The practice of automating the integration of code changes from multiple contributors into a single software project. It's a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run.
 
 - Integrating code frequently does not guarante the quality of the code or functionality
 - Manual processes can be used to ensure standards, however is costly and slow
