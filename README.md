@@ -180,3 +180,9 @@ ________________________________________________________________________________
 - integrate health check with compute environment
 - implement different types of health checks (container liveness, startup, shutdown)
 
+
+
+# Useful information
+- [AZ400-DESIGNINGANDIMPLEMENTINGMICROSOFTDEVOPSSOLUTIONS](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/)
+- [Microsoft Security Code Analysis](https://devblogs.microsoft.com/premier-developer/microsoft-security-code-analysis/)
+- [AZURE DEVOPS DEMO GENERATOR](https://azuredevopsdemogenerator.azurewebsites.net/)
