@@ -60,33 +60,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________
 
-## Manage source control (10-15%)
-### Develop a modern source control strategy
-- integrate/migrate disparate [source control](source-control/README.md) systems (e.g., GitHub, Azure Repos)
-- design authentication strategies
-- design approach for managing large binary files (e.g., Git LFS)
-- design approach for cross repository sharing (e.g., Git sub-modules, packages)
-- implement workflow hooks
-- design approach for efficient code reviews (e.g., GitHub code review assignments, schedule reminders, Pull Analytics)
-### Plan and implement branching strategies for the source code
-- define Pull Requests (PR) guidelines to enforce work item correlation
-- implement branch merging restrictions (e.g., branch policies, branch protections, manual, etc.)
-- define branch strategy (e.g., trunk based, feature branch, release branch, GitHub flow)
-- design and implement a PR workflow (code reviews, approvals)
-- enforce static code analysis for code-quality consistency on PR
-### Configure repositories
-- configure permissions in the source control repository
-- organize the repository with git-tags
-- plan for handling oversized repositories
-- plan for content recovery in all repository states
-- purge data from source control
-### Integrate source control with tools
-- integrate GitHub with DevOps pipelines
-- integrate GitHub with identity management solutions (Azure AD)
-- design for GitOps
-- design for ChatOps
-- integrate source control artifacts for human consumption (e.g., Git changelog)
-- integrate GitHub Codespaces
+## Manage [source control](source-control/README.md) (10-15%)
 
 __________________________________________________________________________________________
 
@@ -111,27 +85,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________
 
 
-## Define and implement a continuous delivery and release management strategy (10-15%)
-### Develop deployment scripts and templates
-- recommend a deployment solution (e.g., GitHub Actions, Azure Pipelines, Jenkins, CircleCI, etc.)
-- design and implement Infrastructure as code (ARM, Terraform, PowerShell, CLI)
-- develop application deployment process (container, binary, scripts)
-- develop database deployment process (migrations, data movement, ETL)
-- integrate configuration management as part of the release process
-- develop complex deployments (IoT, Azure IoT Edge, mobile, App Center, DR, multiregion, CDN, sovereign cloud, Azure Stack, etc.)
-### Implement an orchestration automation solution
-- combine release targets depending on release deliverable (e.g., Infrastructure, code, assets, etc.)
-- design the release pipeline to ensure reliable order of dependency deployments
-- organize shared release configurations and process (YAML templates, variable groups, Azure App Configuration)
-- design and implement release gates and approval processes
-### Plan the deployment environment strategy
-- design a release strategy (blue/green, canary, ring)
-- implement the release strategy (using deployment slots, load balancer configurations,
-### Azure Traffic Manager, feature toggle, etc.)
-- select the appropriate desired state solution for a deployment environment (PowerShell DSC, Chef, Puppet, etc.)
-- plan for minimizing downtime during deployments (VIP Swap, Load balancer, rolling deployments, etc.)
-- design a hotfix path plan for responding to high priority code fixes
-- 
+## Define and implement a [continuous delivery and release management strategy](continuous-delivery/README.md)  (10-15%)
 
 __________________________________________________________________________________________
 
