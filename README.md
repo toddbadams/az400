@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 ## Manage source control (10-15%)
 ### Develop a modern source control strategy
-- integrate/migrate disparate source control systems (e.g., GitHub, Azure Repos)
+- integrate/migrate disparate [source control](source-control/README.md) systems (e.g., GitHub, Azure Repos)
 - design authentication strategies
 - design approach for managing large binary files (e.g., Git LFS)
 - design approach for cross repository sharing (e.g., Git sub-modules, packages)
@@ -186,3 +186,4 @@ ________________________________________________________________________________
 - [AZ400-DESIGNINGANDIMPLEMENTINGMICROSOFTDEVOPSSOLUTIONS](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/)
 - [Microsoft Security Code Analysis](https://devblogs.microsoft.com/premier-developer/microsoft-security-code-analysis/)
 - [AZURE DEVOPS DEMO GENERATOR](https://azuredevopsdemogenerator.azurewebsites.net/)
+- [Microsoft Security Code Analysis](https://secdevtools.azurewebsites.net/)
