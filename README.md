@@ -11,7 +11,7 @@ These notes from exam dated November 30, 2021.
 
 
 # Useful information
-- [AZ400-DESIGNINGANDIMPLEMENTINGMICROSOFTDEVOPSSOLUTIONS](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/)
+- [AZ400 Labs](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/)
 - [Microsoft Security Code Analysis](https://devblogs.microsoft.com/premier-developer/microsoft-security-code-analysis/)
 - [AZURE DEVOPS DEMO GENERATOR](https://azuredevopsdemogenerator.azurewebsites.net/)
 - [Microsoft Security Code Analysis](https://secdevtools.azurewebsites.net/)

@@ -21,3 +21,10 @@
 - design break-the-glass strategy for responding to security incidents 
 
 __________________________________________________________________________________________
+
+
+
+
+# Useful information
+- [Microsoft Security Code Analysis](https://devblogs.microsoft.com/premier-developer/microsoft-security-code-analysis/)
+- [Microsoft Security Code Analysis](https://secdevtools.azurewebsites.net/)
